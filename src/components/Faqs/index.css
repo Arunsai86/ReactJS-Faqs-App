@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+.app-container {
+  background-color: #d7dae6;
+  padding: 20px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 90%;
+  background-color: #ffffff;
+  min-height: 500px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  color: #cb8805;
+  margin-bottom: 10px;
+}

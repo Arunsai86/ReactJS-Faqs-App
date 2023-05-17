@@ -1,0 +1,25 @@
+li {
+  list-style-type: none;
+  width: 70vw;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid #d7dae6;
+  border-radius: 5px;
+}
+.item-container {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+img {
+  width: 15px;
+}
+.answer-container {
+  margin-top: 10px;
+  color: #9aa5b1;
+}
